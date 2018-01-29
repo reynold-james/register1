@@ -1,0 +1,33 @@
+body{
+	font-family:  Tahoma;
+	font-size: 1.1;
+	background-color: #FFFDD0;
+}
+
+.field{
+	display: inline-block;
+	padding: 20px;
+}
+
+form{
+	text-align: center;
+}
+
+#blk{
+	visibility: hidden;
+}
+
+.required {
+	opacity: 0.5;
+	background-color: red;
+	border: 1px solid pink;
+}
+
+.valid{
+	border: 3px solid green;
+}
+
+value{
+	opacity: 0.5;
+}
+
